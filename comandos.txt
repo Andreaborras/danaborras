@@ -1,0 +1,13 @@
+EJ6: mkadir alfafar catarroja paiporta massanassa
+EJ7: cd catarroja // touch enero febrero marzo
+EJ8: cd ../alfafar
+EJ9: cp ../catarroja/enero .
+EJ10: cd ..
+EJ11: cp -r catarroja/* paiporta/
+EJ12: rm paiporta/*ro
+EJ13: mv catarroja/enero massanassa/
+EJ15: git fetch, git merge
+EJ16: mv massanassa/enero massanassa/abril
+EJ17: cp massanassa/abril dana/hola
+EJ18: cd paiporta
+EJ19: rm -rf ../massanassa
